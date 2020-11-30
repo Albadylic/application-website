@@ -4,6 +4,8 @@
 
 #carousel-container {
   border: 10px solid green;
+  display: flex;
+  width: 80vw;
 }
 
 .carousel-image {
