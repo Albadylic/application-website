@@ -2,6 +2,11 @@
   color: red;
 }
 
+/*
+Images display in a row since flex-direction defaults to row
+Images display in one line since flex-wrap defaults to no-wrap
+*/
+
 #carousel-container {
   border: 10px solid green;
   display: flex;
