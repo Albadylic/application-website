@@ -17,3 +17,11 @@ Images display in one line since flex-wrap defaults to no-wrap
   width: 40vw;
   height: auto;
 }
+
+.image-visible {
+  display: block;
+}
+
+.image-hidden {
+  display: none;
+}
