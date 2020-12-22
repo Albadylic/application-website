@@ -6,7 +6,7 @@ My application for FAC21, Spring 2021
 
 You can view my application site here:
 
-https://albadylic.github.io/application-website/
+https://albadylic.github.io/my-application-website/
 
 ## Goals
 
